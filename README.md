@@ -53,7 +53,7 @@
 <hr class="wp-block-separator has-alpha-channel-opacity">
 
 
-* Tutorial: https://youtu.be/ytFVasVx6Ak
+* Tutorial: https://youtu.be/p6_5GjMT22M
 * Tutorial: https://cryptodeeptech.ru/leaking-before-shor
 * Tutorial: https://dzen.ru/video/watch/6afcd233e1f1bc6933d5118f
 * Google Colab: https://github.com/demining/CryptoDeepTools/tree/main/53LeakingBeforeShor
